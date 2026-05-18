@@ -41,29 +41,28 @@ Building clean digital experiences while growing in:
 
 </div>
 
----
 
 ## Featured Projects
 
 ### Web3 Landing Pages
 Modern crypto-focused landing pages with clean UI and responsive design.
 
-HTML • CSS • Sass • JavaScript---
+HTML • CSS • Sass • JavaScript
 
 ### Ethereum Learning Projects
 Smart contract experiments and Solidity practice projects while exploring Ethereum development.
 
-Solidity • JavaScript • Web3---
+Solidity • JavaScript • Web3
 
 ### AI Workflow Experiments
 Using AI tools to improve productivity, content creation and development workflows.
 
-Python • AI Tools • Automation---
+Python • AI Tools • Automation
 
 ### Frontend UI Concepts
 Minimal modern interfaces and responsive website layouts focused on clean user experience.
 
-TypeScript • HTML • CSS • Sass---
+TypeScript • HTML • CSS • Sass
 
 ## GitHub Analytics
 
@@ -83,7 +82,6 @@ TypeScript • HTML • CSS • Sass---
 
 </div>
 
----
 
 ## Contribution Graph
 
@@ -100,7 +98,7 @@ TypeScript • HTML • CSS • Sass---
 → Improving frontend architecture & UI skills
 → Exploring AI tools and integrations
 → Building modern responsive websites
-→ Growing as a Web3 & frontend developer---
+→ Growing as a Web3 & frontend developer
 
 ## Connect
 
