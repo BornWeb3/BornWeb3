@@ -25,7 +25,7 @@ Building clean digital experiences while growing in:
 - Solidity & Smart Contracts
 - Frontend Engineering
 - AI-powered workflows
-- Crypto & Blockchain ecosystem---
+- Crypto & Blockchain ecosystem
 
 ## Tech Stack
 
