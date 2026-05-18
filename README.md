@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/BornWeb3/BornWeb3/main/banner.png" />
+
+</div>
+
+<div align="center">
+
 # BornWeb3
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Frontend+%26+Web3+Developer;Ethereum+%26+Solidity+Learner;Building+Modern+Digital+Experiences;AI+Tools+%2B+Crypto+%2B+Code" />
