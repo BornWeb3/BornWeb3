@@ -68,9 +68,9 @@ TypeScript • HTML • CSS • Sass
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BornWeb3&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BornWeb3&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=58a6ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BornWeb3&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9c9c9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BornWeb3&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9c9c9"/>
 
 </div>
 
@@ -103,10 +103,6 @@ TypeScript • HTML • CSS • Sass
 ## Connect
 
 <div align="center">
-
-<a href="https://github.com/BornWeb3">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://t.me/BornWeb3">
   <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
