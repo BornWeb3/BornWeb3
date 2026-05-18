@@ -26,12 +26,11 @@
 
 Junior developer focused on frontend, Ethereum and modern web technologies.
 
-Building clean digital experiences while growing in:
-- Web3 Development
-- Solidity & Smart Contracts
+Currently exploring:
+- Ethereum & Solidity
 - Frontend Engineering
-- AI-powered workflows
-- Crypto & Blockchain ecosystem
+- AI Workflows
+- Web3 Ecosystem
 
 ## Tech Stack
 
@@ -51,22 +50,22 @@ Building clean digital experiences while growing in:
 ## Featured Projects
 
 ### Web3 Landing Pages
-Modern crypto-focused landing pages with clean UI and responsive design.
+Modern crypto landing pages with clean responsive UI
 
 HTML • CSS • Sass • JavaScript
 
 ### Ethereum Learning Projects
-Smart contract experiments and Solidity practice projects while exploring Ethereum development.
+Smart contract experiments and Solidity practice projects while exploring Ethereum development
 
 Solidity • JavaScript • Web3
 
 ### AI Workflow Experiments
-Using AI tools to improve productivity, content creation and development workflows.
+AI-powered workflows for productivity and development
 
 Python • AI Tools • Automation
 
 ### Frontend UI Concepts
-Minimal modern interfaces and responsive website layouts focused on clean user experience.
+Minimal interfaces with modern responsive layouts
 
 TypeScript • HTML • CSS • Sass
 
